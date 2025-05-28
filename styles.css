@@ -1,0 +1,77 @@
+.logo {
+  max-width: 150px;
+  display: block;
+  margin: 0 auto 1rem;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+header {
+  background-color: #009739; /* Verde Subway */
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+main {
+  padding: 2rem;
+}
+
+.video-section {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border: 1px solid #eee;
+  background-color: #f4f4f4;
+  border-radius: 10px;
+}
+
+.video-section h2 {
+  color: #009739;
+}
+
+.video-section a {
+  display: inline-block;
+  margin-top: 0.5rem;
+  color: #ffffff;
+  background-color: #fdda24; /* Amarillo Subway */
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.video-section a:hover {
+  background-color: #f0c800;
+}
+
+.evaluation {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.eval-button {
+  font-size: 1.2rem;
+  background-color: #009739;
+  color: white;
+  padding: 1rem 2rem;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.eval-button:hover {
+  background-color: #007f2c;
+}
+
+footer {
+  background-color: #fdda24;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 4rem;
+}
